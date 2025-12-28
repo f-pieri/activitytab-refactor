@@ -1,4 +1,4 @@
-# Chromium ActivityTab Refactor
+# ActivityTab Refactor
 
 ## Description
 Refactored ActivityTab observer usage to remove deprecated hint parameter.
