@@ -7,7 +7,7 @@ This migrates remaining call sites to the non-hint observer method and removes u
 
 **Bug:** 1485370
 
-**Gerrit CL:** https://chromium-review.googlesource.com/c/chromium/src/+/YOUR_CL_NUMBER
+**Gerrit CL:** https://chromium-review.googlesource.com/c/chromium/src/+/7344013
 
 ## Files Modified
 - ActivityTabProvider.java
